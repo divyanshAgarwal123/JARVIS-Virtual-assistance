@@ -8,8 +8,9 @@ A Python-based virtual assistant inspired by J.A.R.V.I.S from Iron Man. **This i
 ✅ **Voice Command Recognition** – Uses speech-to-text to process your commands.
 ✅ **Open Websites and Applications** – Launch apps and browse the internet hands-free.
 ✅ **Search the Web** – Fetch instant information from Google.
-✅ **Search the wikipedia** – Fetch instant information from wikipedia.
-**and more soon** 
+✅ **Automate Daily Tasks** – Perform automated actions with a single voice command.
+✅ **Text-to-Speech (TTS)** – Uses AI-generated voice responses.
+
 ---
 
 ## 🚀 Installation Guide
