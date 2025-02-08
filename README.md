@@ -9,7 +9,6 @@ A Python-based virtual assistant inspired by J.A.R.V.I.S from Iron Man. **This i
 ✅ **Open Websites and Applications** – Launch apps and browse the internet hands-free.
 ✅ **Search the Web** – Fetch instant information from Google.
 ✅ **Automate Daily Tasks** – Perform automated actions with a single voice command.
-✅ **Text-to-Speech (TTS)** – Uses AI-generated voice responses.
 
 ---
 
