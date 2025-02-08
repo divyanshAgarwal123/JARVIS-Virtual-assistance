@@ -1,4 +1,8 @@
-SpeechRecognition
 pyttsx3
+datetime
+pywhatkit
 wikipedia
+speechrecognition
 pyaudio
+webbrowser
+googlesearch-python
