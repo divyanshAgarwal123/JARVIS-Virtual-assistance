@@ -2,17 +2,14 @@
 
 A Python-based virtual assistant inspired by J.A.R.V.I.S from Iron Man. **This is not an AI model** but a chatbot that follows predefined commands.
 
-![Jarvis Demo](https://your-demo-video-link.com)
-
 ---
 
 ## ✨ Features
 ✅ **Voice Command Recognition** – Uses speech-to-text to process your commands.
 ✅ **Open Websites and Applications** – Launch apps and browse the internet hands-free.
 ✅ **Search the Web** – Fetch instant information from Google.
-✅ **Automate Daily Tasks** – Perform automated actions with a single voice command.
-✅ **Text-to-Speech (TTS)** – Uses AI-generated voice responses.
-
+✅ **Search the wikipedia** – Fetch instant information from wikipedia.
+**and more soon** 
 ---
 
 ## 🚀 Installation Guide
@@ -60,11 +57,6 @@ python Jarvis.py
 - `pyaudio` (for microphone support)
 - `pywhatkit` (for playing YouTube videos)
 - `datetime` (for fetching time)
-
----
-
-## 🎬 Demo
-[![Jarvis Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://your-demo-video-link.com)
 
 ---
 
