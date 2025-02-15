@@ -15,7 +15,7 @@ A Python-based virtual assistant inspired by J.A.R.V.I.S from Iron Man. **This i
 ## 🚀 Installation Guide
 ### **1️⃣ Clone the Repository**
 ```bash
- git clone https://github.com/yourusername/Jarvis-Virtual-Assistant.git
+ git clone https://github.com/divyanshAagrwal123/Jarvis-Virtual-Assistant.git
  cd Jarvis-Virtual-Assistant
 ```
 
